@@ -13,4 +13,4 @@
 
 # その他
 - [マークダウン構文](https://docs.github.com/ja/github/writing-on-github/basic-writing-and-formatting-syntax)
-- GitHub Pages が非公開運用できるようになってますね。以前調べたときは必ず公開でした。[Changing the visibility of your GitHub Pages site - GitHub Docs](https://docs.github.com/ja/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site)
+- GitHub Pages が非公開運用できるようになってますね。GitHubを使うならPagesもありかもしれません。以前調べたときは必ず公開になってしまう仕様でした。[Changing the visibility of your GitHub Pages site - GitHub Docs](https://docs.github.com/ja/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site)
